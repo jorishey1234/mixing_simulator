@@ -9,7 +9,7 @@ Install necessary python tools :
 >> python3 mixing_simulator_v1.0.py
 
 # Change parameters :
-Roughness : Flow velocity roughness, measure by the slope of the velocity lengthscale spectrum: $<v(k)²>^{1/2}\sim k^{\xi}$. $\xi=5/6$ in 3D turbulence, $\xi=-2$  in 2D turbulence, $\xi=-\infty$ in single lengthscale laminar flows.
+Roughness : Flow velocity roughness, measure by the slope of the velocity lengthscale spectrum: $<v(k)^2>^{1/2}\sim k^{\xi}$. $\xi=5/6$ in 3D turbulence, $\xi=-2$  in 2D turbulence, $\xi=-\infty$ in single lengthscale laminar flows.
 Correlation time : Velocity correlation time $t_c$ of the largest length scale $L$. The correlation time of smaller scales is $t_c' \ sim t_c L/\ell$
-Amplitude : Amplitude $A$ of the velocity fluctuations. $<v²>^{1/2} \sim A / t_c$
+Amplitude : Amplitude $A$ of the velocity fluctuations. $<v²>^{1/2} = A / t_c$
 Diffusion : Molecular diffusion of the scalar 
