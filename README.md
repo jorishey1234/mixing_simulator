@@ -2,8 +2,9 @@
 A python code for fast real-time 2D simulations of scalar mixing in turbulent or laminar flows 
 
 # Install
-Install necessary python tools : 
->> pip3 install numpy time PyQt5 vispy scipy
+Install necessary python packages with pip/pip3 :
+
+>> pip3 install numpy time PyQt5 vispy scipy argparse
 
 # Run
 Quick run :
