@@ -1,5 +1,8 @@
 # Turbulent/Laminar Mixing Simulator
-A python code for fast real-time 2D simulations of scalar mixing in turbulent or laminar flows 
+A python code for fast real-time 2D simulations of scalar mixing in turbulent or laminar flows.
+![image](https://github.com/jorishey1234/mixing_simulator/assets/35989752/f4cb94a8-dabd-446b-b001-7e2608a82973)
+
+The code simulate the advection diffusion equation with a synthetic flow reproducing turbulent spectrum properties. The flow consist in an alternation of horizontal and vertical waves, in the manner of the sine flow, with tunable spectral properties (see parameters below).
 
 # Install
 Install necessary python packages with pip/pip3 :
@@ -16,7 +19,7 @@ Set grid size $n \times n$
 Set horizontal grid periodicity $n \times p \cdot n$
 >> python3 mixing_simulator_v1.0.py -n 512 -p 3
 
-# Change parameters :
+# Simulation parameters :
 Simulation Mode :
 - Gradient : Simulate scalar mixing in a mean horizontal scalar gradient $c' = c- \overline{\nabla c} \cdot x$
 - Decay : Simulate decay of scalar fluctuations (periodic boundaries)
