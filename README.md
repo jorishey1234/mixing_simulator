@@ -4,6 +4,8 @@ A python code for fast real-time 2D simulations of scalar mixing in turbulent or
 
 The code solves the advection-diffusion equation for a synthetic flow reproducing turbulent spectrum properties. The flow consist in an alternation of horizontal and vertical waves, in the manner of the sine flow, with tunable spectral properties (see parameters below).
 
+You can interact with the simulation by dropping patches of scalar with mous clicking on the image, right or left.
+
 # Install
 Install necessary python packages with pip/pip3 :
 
