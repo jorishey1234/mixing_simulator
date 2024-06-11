@@ -30,7 +30,7 @@ Flow properties :
 - Roughness : Flow velocity roughness, measure by the slope of the velocity lengthscale spectrum: $\langle v(k)^2 \rangle\sim k^{\xi}$. $\xi=-5/3$ in 3D turbulence, $\xi=-3$  in 2D turbulence, $\xi=-\infty$ in single lengthscale laminar flows.
 - Max lengthscale : Maximum velocity lengthscale (domain size is 1)
 - Min lengthscale : Minimum velocity lengthscale
-- Correlation time : Velocity correlation time $t_c$ of the largest length scale $L=1$. The correlation time of smaller scales $\ell$ is $t_c'(\ell) \ sim t_c \ell$
+- Correlation time : Velocity correlation time $t_c$ of the largest length scale $L=1$. The correlation time of smaller scales $\ell$ is $t_c'(\ell) \sim t_c \ell$
 - Amplitude : Amplitude $A$ of the velocity fluctuations. $\langle v^2 \rangle ^{1/2} = A / t_c$
 
 Scalar properties :
