@@ -6,7 +6,14 @@ Install necessary python tools :
 >> pip3 install numpy time PyQt5 vispy scipy
 
 # Run
+Quick run :
 >> python3 mixing_simulator_v1.0.py
+
+Set grid size $n \times n$
+>> python3 mixing_simulator_v1.0.py -n 512
+
+Set horizontal grid periodicity $n \times p \dot n$
+>> python3 mixing_simulator_v1.0.py -n 512 -p 3
 
 # Change parameters :
 Simulation Mode :
