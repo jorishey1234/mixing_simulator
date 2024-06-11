@@ -35,7 +35,7 @@ Flow properties :
 
 Scalar properties :
 
-- Diffusion : Molecular diffusion of the scalar
+- Diffusion : Molecular diffusivity of the scalar
 
 Simultaion properties :
 
