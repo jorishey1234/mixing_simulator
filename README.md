@@ -25,3 +25,5 @@ Correlation time : Velocity correlation time $t_c$ of the largest length scale $
 Amplitude : Amplitude $A$ of the velocity fluctuations. $\langle v^2 \rangle ^{1/2} = A / t_c$
 
 Diffusion : Molecular diffusion of the scalar
+
+FPS : Frame per second on screen
