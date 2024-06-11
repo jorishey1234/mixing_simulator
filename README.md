@@ -15,6 +15,8 @@ Install necessary python packages with pip/pip3 :
 Quick run :
 >> python3 mixing_simulator_v1.0.py
 
+You can interact with the simulation by dropping patches of scalar with mous clicking on the image, right or left.
+
 Set grid size $n \times n$
 >> python3 mixing_simulator_v1.0.py -n 512
 
