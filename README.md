@@ -12,7 +12,7 @@ Quick run :
 Set grid size $n \times n$
 >> python3 mixing_simulator_v1.0.py -n 512
 
-Set horizontal grid periodicity $n \times p \dot n$
+Set horizontal grid periodicity $n \times p \cdot n$
 >> python3 mixing_simulator_v1.0.py -n 512 -p 3
 
 # Change parameters :
